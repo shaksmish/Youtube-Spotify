@@ -1,3 +1,3 @@
 # Youtube-Spotify
 
-Building a chrome extension that extracts songs from Youtube and Youtube music links and turns it into a Spotify playlist.
+Building a Chrome extension that extracts songs from YouTube and YouTube music links and turns them into a Spotify playlist.
